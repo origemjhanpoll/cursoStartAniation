@@ -3,6 +3,7 @@
   "ignorePatterns": ["lib/**/*"],
   "rules": {
     "no-bitwise": 0,
+    "endOfLine": "auto",
     "import/extensions": [
       2,
       {
